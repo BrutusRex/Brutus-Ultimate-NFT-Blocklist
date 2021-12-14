@@ -29,7 +29,9 @@ For Firefox: https://addons.mozilla.org/en-US/firefox/addon/red-block/
 
 And that's it! Now you are much less likely to encounter any Cryptobros in the wild~ ♥
 
-Keep in mind that Red Block does not like to block more than 500 people at once to help protect your account from Twitter's anti-bot measures. You will likely need to click the reset button a few times and rerun the tool.
+Keep in mind that Red Block does not like to block more than 500 people at once to help protect your account from Twitter's anti-bot measures. You will likely need to click the reset button a few times and rerun the tool to get around the protection measure. 
+
+### Please ensure that you have a valid number or email attached to your Twitter account in case it is locked by Twitter at any point during this process.
 
 
 ## If you like this blocklist and want to know when new blocklist batches are released: 
