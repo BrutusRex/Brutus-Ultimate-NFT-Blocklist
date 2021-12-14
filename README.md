@@ -7,6 +7,8 @@ This is preferably done on a computer - but in theory, it may also be able to be
 
 If you are following an account (or vice versa) on the blocklist and you don't want to block them, the settings on Red Block can be changed to skip people you follow/who follow you. Your mutual status with Crazy Frog should be safe.
 
+### My target blocklist size goal is 125k. We are currently at 4,882. Just about 120k left to go!
+
 ## How to use:
 
 1. Unzip the .csv blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
@@ -24,14 +26,12 @@ For Firefox: https://addons.mozilla.org/en-US/firefox/addon/red-block/
 And that's it! Now you are much less likely to encounter any Cryptobros in the wild~ ♥
 
 
-## If you like this blocklist and want to know when new blocklist batches are released, 
-consider following me on Twitter: https://twitter.com/FoolGremlin
+## If you like this blocklist and want to know when new blocklist batches are released: 
+Consider following me on Twitter: https://twitter.com/FoolGremlin
 
 Or, buy me a coffee so I can fuel the late nights I'll be spending working on this ☺: https://ko-fi.com/bigshot
 
 Also, big shoutout to the guys who made Red Block! This wouldn't be as easy without them. :)
-
-My target blocklist size goal is 125k. We are currently at 4,882. Just about 120k left to go!
 
 
 ## Do you believe that your account has been added to this blocklist by mistake? 
