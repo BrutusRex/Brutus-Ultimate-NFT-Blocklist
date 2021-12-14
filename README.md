@@ -29,9 +29,9 @@ And that's it! Now you are much less likely to encounter any Cryptobros in the w
 ## If you like this blocklist and want to know when new blocklist batches are released: 
 Consider following me on Twitter: https://twitter.com/FoolGremlin
 
-Or, buy me a coffee so I can fuel the late nights I'll be spending working on this ☺: https://ko-fi.com/bigshot
+Or, buy me a coffee so I can fuel the late nights I'll be spending working on this: https://ko-fi.com/bigshot
 
-Also, big shoutout to the guys who made Red Block! This wouldn't be as easy without them. :)
+Also, BIG shoutout to the guys who made Red Block! This wouldn't be as easy without them. :)
 
 
 ## Do you believe that your account has been added to this blocklist by mistake? 
