@@ -1,3 +1,7 @@
+## PLEASE READ THIS README CAREFULLY BEFORE USING THE TOOL. I am not responsible if you are locked out of your Twitter account because you didn't follow instructions properly. 
+
+### !!! Please ensure that you have a valid number or email attached to your Twitter account in case it is locked by Twitter at any point during this process. Automated scripts do not always play nicely with Twitter's anti-bot measures. You account will be fine so long as you can still access it in case of a safety lock. The lock will be lifted as soon as you verify your number/email. !!!
+
 # Brutus' Ultimate NFT Blocklist
 A massive Twitter blocklist for mass-blocking NFT-related accounts.
 
@@ -14,6 +18,10 @@ If you're having trouble figuring something out, don't hesitate to ask me for he
 ### My target blocklist size goal is 125k. We are currently at 4,941. Just about 120k left to go!
 
 ## How to use:
+
+!!! AGAIN, please ensure that you have a valid number or email attached to your Twitter account in case it is locked by Twitter at any point during this process. !!!
+
+Keep in mind that Red Block does not like to block more than 500 people at once to help protect your account from Twitter's anti-bot measures. You will likely need to click the reset button a few times and rerun the tool to get around the protection measure if you want to do it as fast as you can. However, the tool can be set to automatically resume on a timer to keep you from being locked or logged out by Twitter. It is still a quick and easy process despite all that - I did the hard part of curating almost 5,000 accounts (at the moment) for you to block.
 
 1. Unzip the .csv blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
 
