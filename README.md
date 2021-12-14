@@ -7,7 +7,7 @@ This is preferably done on a computer - but in theory, it may also be able to be
 
 How to use:
 
-1. Unzip the .json blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
+1. Unzip the .csv blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
 
 For Chromium Browsers: https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf/
 
