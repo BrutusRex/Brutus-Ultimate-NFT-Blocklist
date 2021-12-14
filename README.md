@@ -1,9 +1,10 @@
+# Brutus' Ultimate NFT Blocklist
+A massive Twitter blocklist for mass-blocking NFT-related accounts.
+
 ## PLEASE READ THIS README CAREFULLY BEFORE USING THE TOOL. I am not responsible if you are locked out of your Twitter account because you didn't follow instructions properly. 
 
 ### !!! Please ensure that you have a valid number or email attached to your Twitter account in case it is locked by Twitter at any point during this process. Automated scripts do not always play nicely with Twitter's anti-bot measures. You account will be fine so long as you can still access it in case of a safety lock. The lock will be lifted as soon as you verify your number/email. !!!
 
-# Brutus' Ultimate NFT Blocklist
-A massive Twitter blocklist for mass-blocking NFT-related accounts.
 
 The current largest NFT Twitter blocklist! This is a solo-made project. All major NFT pages and their followings are targeted. This blocklist also includes corporate accounts, brands, and celebrities who have supported NFTs and/or made their own NFTs (this includes Snoop Dogg, Lady Gaga, Nicki Minaj, T-Pain, Crazy Frog, Gummibar, Pepsi, McDonald's, etc.). I hope that it meets your standards and that it will improve your time spent on Twitter. :)
 
