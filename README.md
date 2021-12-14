@@ -3,6 +3,8 @@ A massive Twitter blocklist for blocking NFT-related accounts.
 
 The current largest NFT Twitter blocklist! This is a solo-made project. All major NFT/Crypto pages and their followings are targeted. This blocklist also includes corporate accounts, brands, and celebrities who have supported and/or made their own NFTs (this includes Snoop Dogg, Lady Gaga, Nicki Minaj, T-Pain, Crazy Frog, Gummibar, Pepsi, etc.). I hope that it meets your standards and that it will improve your time spent on Twitter. :)
 
+This is preferably done on a computer - but in theory, it may also be able to be done on mobile.
+
 How to use:
 
 1. Unzip the .json blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
