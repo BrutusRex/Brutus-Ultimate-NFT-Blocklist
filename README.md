@@ -5,7 +5,7 @@ The current largest NFT Twitter blocklist! This is a solo-made project. All majo
 
 This is preferably done on a computer - but in theory, it may also be able to be done on mobile.
 
-If you are following an account (or vice versa) on the blocklist and you don't want to block them, the settings on Red Block can be changed to skip people you follow/who follow you. Your mutual status with Crazy Frog should be safe.
+If you are following an account (or vice versa) on the blocklist and you don't want to block them, the settings on Red Block can be changed to skip people you follow/who follow you (this is the default). Your mutual status with Crazy Frog should be safe.
 
 If you're having trouble figuring something out, don't hesitate to ask me for help!
 
