@@ -22,7 +22,7 @@ For Firefox: https://addons.mozilla.org/en-US/firefox/addon/red-block/
 And that's it! Now you are much less likely to encounter any Cryptobros in the wild~ ♥
 
 
-If you like this blocklist and want to know when new blocklist batches are released, consider following me on Twitter: @FoolGremlin
+If you like this blocklist and want to know when new blocklist batches are released, consider following me on Twitter: https://twitter.com/FoolGremlin
 
 Or, buy me a coffee so I can fuel the late nights I'll be spending working on this ☺: https://ko-fi.com/bigshot
 
