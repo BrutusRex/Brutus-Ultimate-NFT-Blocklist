@@ -1,7 +1,7 @@
 # Brutus' Ultimate NFT Blocklist
 A massive Twitter blocklist for blocking NFT-related accounts.
 
-The current largest NFT Twitter blocklist! This is a solo-made project. All major NFT pages and their followings are targeted. This blocklist also includes corporate accounts, brands, and celebrities who have supported and/or made their own NFTs (this includes Snoop Dogg, Lady Gaga, Nicki Minaj, T-Pain, Crazy Frog, Gummibar, Pepsi, etc.). I hope that it meets your standards and that it will improve your time spent on Twitter. :)
+The current largest NFT Twitter blocklist! This is a solo-made project. All major NFT pages and their followings are targeted. This blocklist also includes corporate accounts, brands, and celebrities who have supported and/or made their own NFTs (this includes Snoop Dogg, Lady Gaga, Nicki Minaj, T-Pain, Crazy Frog, Gummibar, Pepsi, McDonald's, etc.). I hope that it meets your standards and that it will improve your time spent on Twitter. :)
 
 This is preferably done on a computer - but in theory, it may also be able to be done on mobile.
 
@@ -27,6 +27,8 @@ And that's it! Now you are much less likely to encounter any Cryptobros in the w
 If you like this blocklist and want to know when new blocklist batches are released, consider following me on Twitter: https://twitter.com/FoolGremlin
 
 Or, buy me a coffee so I can fuel the late nights I'll be spending working on this ☺: https://ko-fi.com/bigshot
+
+Also, big shoutout to the guys who made Red Block! This wouldn't be as easy without them. :)
 
 My target blocklist size goal is 125k. We are currently at 4,882. Just about 120k left to go!
 
