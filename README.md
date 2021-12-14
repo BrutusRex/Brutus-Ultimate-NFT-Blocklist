@@ -11,7 +11,7 @@ Keep in mind that this mainly targets NFT accounts, and the only Crypto guys who
 
 If you're having trouble figuring something out, don't hesitate to ask me for help!
 
-### My target blocklist size goal is 125k. We are currently at 4,882. Just about 120k left to go!
+### My target blocklist size goal is 125k. We are currently at 4,941. Just about 120k left to go!
 
 ## How to use:
 
