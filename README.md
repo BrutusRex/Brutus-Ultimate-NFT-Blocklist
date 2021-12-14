@@ -1,5 +1,5 @@
 # Brutus' Ultimate NFT Blocklist
-A massive Twitter blocklist for blocking NFT-related accounts.
+A massive Twitter blocklist for mass-blocking NFT-related accounts.
 
 The current largest NFT Twitter blocklist! This is a solo-made project. All major NFT pages and their followings are targeted. This blocklist also includes corporate accounts, brands, and celebrities who have supported and/or made their own NFTs (this includes Snoop Dogg, Lady Gaga, Nicki Minaj, T-Pain, Crazy Frog, Gummibar, Pepsi, McDonald's, etc.). I hope that it meets your standards and that it will improve your time spent on Twitter. :)
 
