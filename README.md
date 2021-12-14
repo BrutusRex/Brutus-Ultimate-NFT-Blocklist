@@ -57,6 +57,6 @@ Contact me in the same places as listed below. I am more likely to respond quick
 
 # Don't like this project?
 
-Block me. ¯\_(ツ)_/¯
+Block me. ¯\\_(ツ)_/¯
 
 ### #BlockTheBlockchain
