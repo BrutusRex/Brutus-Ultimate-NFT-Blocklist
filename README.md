@@ -17,9 +17,9 @@ If you're having trouble figuring something out, don't hesitate to ask me for he
 
 1. Unzip the .csv blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
 
-For Chromium Browsers: https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf/
+[Red Block for Chromium Browsers.](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf/)
 
-For Firefox: https://addons.mozilla.org/en-US/firefox/addon/red-block/
+[Red Block for Firefox.](https://addons.mozilla.org/en-US/firefox/addon/red-block/)
 
 2. After installing, click on the extension's button on the top right of your browser, and sign into Twitter if you are not already. Red Block is only a script tool, so it will not harm your account or access your personal information.
 
@@ -37,15 +37,15 @@ Keep in mind that Red Block does not like to block more than 500 people at once 
 
 
 ## If you like this blocklist and want to know when new blocklist batches are released: 
-Consider following me on Twitter: https://twitter.com/FoolGremlin
+[Consider following me on Twitter.](https://twitter.com/FoolGremlin)
 
-Or, buy me a coffee so I can fuel the late nights I'll be spending working on this: https://ko-fi.com/bigshot
+Or, [buy me a coffee so I can fuel the late nights I'll be spending working on this.](https://ko-fi.com/bigshot)
 
 Also, BIG shoutout to the guys who made Red Block! This wouldn't be as easy without them. :)
 
 
 ## Do you believe that your account has been added to this blocklist by mistake? 
-Accidents may sometimes happen; the process is not perfect, as the blocking is done through an automated script. If you think this is the case, contact me:
+Accidents may sometimes happen; the process is not perfect, as the blocking is done through an automated script. You can check the list for your account by opening the .csv file, using "CTRL + F" and looking up your Twitter account's ID numbers ([ID can be found here](https://tweeterid.com/). If your account *is* there, contact me:
 
 DMs: @FoolGremlin
 
