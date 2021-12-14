@@ -22,7 +22,7 @@ And that's it! Now you are much less likely to encounter any Cryptobros in the w
 
 If you like this blocklist and want to know when new blocklist batches are released, consider following me on Twitter: @FoolGremlin
 
-Or, buy me a coffee so I can fuel the last nights I'll be spending working on this ☺: https://ko-fi.com/bigshot
+Or, buy me a coffee so I can fuel the late nights I'll be spending working on this ☺: https://ko-fi.com/bigshot
 
 My target blocklist size goal is 125k. We are currently at 4,882. Just about 120k left to go!
 
