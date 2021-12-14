@@ -24,6 +24,8 @@ If you're having trouble figuring something out, don't hesitate to ask me for he
 
 Keep in mind that Red Block does not like to block more than 500 people at once to help protect your account from Twitter's anti-bot measures. You will likely need to click the reset button a few times and rerun the tool to get around the protection measure if you want to do it as fast as you can. However, the tool can be set to automatically resume on a timer to keep you from being locked or logged out by Twitter. It is still a quick and easy process despite all that - I did the hard part of curating almost 5,000 accounts (at the moment) for you to block.
 
+[Tutorial video if you need it.](https://www.youtube.com/watch?v=yP48ls7OM5M) It's literally less than 4 minutes long.
+
 1. Unzip the .csv blocklist file. Then, download & install the Red Block extension for Chromium/Firefox.
 
 [Red Block for Chromium Browsers.](https://chrome.google.com/webstore/detail/red-block/knjpopecjigkkaddmoahjcfpbgedkibf/)
