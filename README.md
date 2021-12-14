@@ -55,7 +55,7 @@ Email: ihaveasmallpenis@cock.email (Yes, this is a real email address.)
 
 Contact me in the same places as listed below. I am more likely to respond quickly via Twitter. Help from others would be greatly appreciated.
 
-# Don't like this project?
+## Don't like this project?
 
 Block me. ¯\\_(ツ)_/¯
 
