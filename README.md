@@ -21,7 +21,7 @@ If you're having trouble figuring something out, don't hesitate to ask me for he
 
 [Red Block for Firefox.](https://addons.mozilla.org/en-US/firefox/addon/red-block/)
 
-2. After installing, click on the extension's button on the top right of your browser, and sign into Twitter if you are not already. Red Block is only a script tool, so it will not harm your account or access your personal information. It's creator(s) created the tool with your account safety in mind.
+2. After installing, click on the extension's button on the top right of your browser, and sign into Twitter if you are not already. Red Block is only a script tool, so it will not harm your account or access your personal information. Its creator(s) made the tool with your account safety in mind.
 
 3. Click on the button that looks like a bullet list (it will say Blocklist Import/Export when you hover your cursor over it).
 
