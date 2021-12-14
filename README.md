@@ -7,6 +7,8 @@ This is preferably done on a computer - but in theory, it may also be able to be
 
 If you are following an account (or vice versa) on the blocklist and you don't want to block them, the settings on Red Block can be changed to skip people you follow/who follow you. Your mutual status with Crazy Frog should be safe.
 
+If you're having trouble figuring something out, don't hesitate to ask me for help!
+
 ### My target blocklist size goal is 125k. We are currently at 4,882. Just about 120k left to go!
 
 ## How to use:
