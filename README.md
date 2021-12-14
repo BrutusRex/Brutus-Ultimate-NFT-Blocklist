@@ -45,7 +45,7 @@ Also, BIG shoutout to the guys who made Red Block! This wouldn't be as easy with
 
 
 ## Do you believe that your account has been added to this blocklist by mistake? 
-Accidents may sometimes happen; the process is not perfect, as the blocking is done through an automated script. You can check the list for your account by opening the .csv file, using "CTRL + F" and looking up your Twitter account's ID numbers ([ID can be found here](https://tweeterid.com/). If your account *is* there, contact me:
+Accidents may sometimes happen; the process is not perfect, as the blocking is done through an automated script. You can check the list for your account by opening the .csv file, using "CTRL + F" and looking up your Twitter account's ID numbers ([ID can be found here](https://tweeterid.com/)). If your account *is* there, contact me:
 
 DMs: @FoolGremlin
 
