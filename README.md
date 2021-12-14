@@ -23,7 +23,9 @@ For Firefox: https://addons.mozilla.org/en-US/firefox/addon/red-block/
 
 3. Click on the button that looks like a bullet list (it will say Blocklist Import/Export when you hover your cursor over it).
 
-4. Click on Select Files, and then browse to where you have saved the blocklist file. Keep Twitter open and let Red Block take care of the rest.
+4. Click on Select Files, and then browse to where you have saved the blocklist file. 
+
+6. Configure your desired settings, and then click the big red "Run Chain Block" button on the bottom of the Red Block UI. Keep Twitter open and let Red Block take care of the rest.
 
 And that's it! Now you are much less likely to encounter any Cryptobros in the wild~ ♥
 
